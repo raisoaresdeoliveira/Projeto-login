@@ -8,15 +8,15 @@
 }
 
 html, body{
-    width: 100vw;
-    height: 100vh;
+    width: 100%;
+    height: 100%;
     background-color: blueviolet;
 }
 
 main{
     position: relative;
-    height: 100vh;
-    width: 100vw;
+    min-height: 100vh;
+    width: 100%;
 }
 
 section#login{
